@@ -1,0 +1,2 @@
+# Versions keel must never install: - { name: x, version: 1.2.3, why: "…" }
+revoked: []

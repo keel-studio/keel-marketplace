@@ -1,0 +1,9 @@
+name: product
+title: "keel Product"
+publisher: keel
+repo: https://github.com/MiladNalbandi/keel-plugin-product
+category: product
+summary: "Initiatives, teams and product docs, from idea to the teams' stories, with their own workflows and agents. Beta."
+tags: [product-management]
+trust: code
+status: planned            # no release yet; the code still lives in keel-v2

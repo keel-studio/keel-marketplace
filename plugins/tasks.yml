@@ -1,0 +1,9 @@
+name: tasks
+title: "Tasks"
+publisher: keel
+repo: https://github.com/MiladNalbandi/keel-plugin-tasks
+category: tickets
+summary: "A list of work items. Start a flow from a task with one button."
+tags: [tasks, tickets]
+trust: code
+status: planned            # no release yet; the code still lives in keel-v2

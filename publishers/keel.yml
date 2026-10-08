@@ -1,0 +1,8 @@
+# keel's own plugins.
+name: keel
+title: keel
+verified: true
+contact: https://github.com/MiladNalbandi/keel-v2/issues
+# Ed25519 public keys that sign keel's plugin releases. Added when signing starts (keel 0.20).
+# Only public keys go here; the private key lives in GitHub Actions secrets.
+keys: []

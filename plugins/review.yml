@@ -1,0 +1,9 @@
+name: review
+title: "Code Review"
+publisher: keel
+repo: https://github.com/MiladNalbandi/keel-plugin-review
+category: code
+summary: "Review GitHub and GitLab pull requests inside the Code page. AI comments wait for your OK before they are posted."
+tags: [code-review, github, gitlab]
+trust: code
+status: planned            # no release yet; the code still lives in keel-v2

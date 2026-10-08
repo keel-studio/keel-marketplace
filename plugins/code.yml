@@ -1,0 +1,9 @@
+name: code
+title: "Code"
+publisher: keel
+repo: https://github.com/MiladNalbandi/keel-plugin-code
+category: code
+summary: "The Code page: files, search, an editor and the changes on your branch. It is a host: Git, Code Review, Database and CI/CD add their tabs to it."
+tags: [ide, editor]
+trust: code
+status: planned            # no release yet; the code still lives in keel-v2

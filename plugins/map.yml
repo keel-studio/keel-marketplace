@@ -1,0 +1,9 @@
+name: map
+title: "Map"
+publisher: keel
+repo: https://github.com/MiladNalbandi/keel-plugin-map
+category: know
+summary: "A picture of the project: the system, its modules and the database (ER), drawn from folders, migrations and the API contract."
+tags: [architecture, diagram]
+trust: code
+status: planned            # no release yet; the code still lives in keel-v2

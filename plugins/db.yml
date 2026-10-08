@@ -1,0 +1,9 @@
+name: db
+title: "Database"
+publisher: keel
+repo: https://github.com/MiladNalbandi/keel-plugin-db
+category: code
+summary: "Connect a database. You see its tables and an ER diagram. Agents get read-only SQL tools."
+tags: [database, sql, er-diagram]
+trust: code
+status: planned            # no release yet; the code still lives in keel-v2

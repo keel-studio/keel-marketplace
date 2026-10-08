@@ -1,0 +1,9 @@
+name: git
+title: "Git"
+publisher: keel
+repo: https://github.com/MiladNalbandi/keel-plugin-git
+category: code
+summary: "The Git panel, git actions for flows and git tools for agents. Agents read git; a person presses Commit and Push. keel's core keeps the git basics that flows need."
+tags: [git, pull-requests]
+trust: code
+status: planned            # no release yet; the code still lives in keel-v2
