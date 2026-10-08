@@ -1,7 +1,7 @@
 name: graph
 title: "Graph"
 publisher: keel
-repo: https://github.com/MiladNalbandi/keel-plugin-graph
+repo: https://github.com/keel-studio/keel-plugin-graph
 category: know
 summary: "The code graph page, and code-graph context for agents. Flows still run without it, with less context."
 tags: [code-graph, context]

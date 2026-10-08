@@ -1,7 +1,7 @@
 name: wiki
 title: "Wiki"
 publisher: keel
-repo: https://github.com/MiladNalbandi/keel-plugin-wiki
+repo: https://github.com/keel-studio/keel-plugin-wiki
 category: know
 summary: "The Wiki page for the project's knowledge base. The knowledge base itself stays in keel's core, because flows check it."
 tags: [knowledge, docs]

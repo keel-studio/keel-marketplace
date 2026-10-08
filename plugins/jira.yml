@@ -1,7 +1,7 @@
 name: jira
 title: "Jira"
 publisher: keel
-repo: https://github.com/MiladNalbandi/keel-plugin-jira
+repo: https://github.com/keel-studio/keel-plugin-jira
 category: tickets
 summary: "Bring Jira issues into Tasks and keep their status in step with your flows."
 tags: [jira, tickets]

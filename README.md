@@ -26,7 +26,7 @@ tools/        check.py: the checks a pull request must pass
 
 ## Add your plugin
 
-1. Make your plugin from [keel-plugin-template](https://github.com/MiladNalbandi/keel-plugin-template).
+1. Make your plugin from [keel-plugin-template](https://github.com/keel-studio/keel-plugin-template).
 2. Open a pull request here with `publishers/<you>.yml` (your **public** key) and `plugins/<id>.yml`.
 3. The checks pass and a maintainer merges. Your plugin shows as **community**. After a review it can become
    **verified**.

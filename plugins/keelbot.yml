@@ -1,7 +1,7 @@
 name: keelbot
 title: "KeelBot"
 publisher: keel
-repo: https://github.com/MiladNalbandi/keel-plugin-keelbot
+repo: https://github.com/keel-studio/keel-plugin-keelbot
 category: assist
 summary: "Chat with your project. Other plugins add slash commands and cards to it."
 tags: [assistant, chat]

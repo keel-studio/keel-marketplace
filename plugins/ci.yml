@@ -1,7 +1,7 @@
 name: ci
 title: "CI/CD"
 publisher: keel
-repo: https://github.com/MiladNalbandi/keel-plugin-ci
+repo: https://github.com/keel-studio/keel-plugin-ci
 category: code
 summary: "Pipeline results in flows, Jobs and the Code page. A failed job can start a fix flow."
 tags: [ci, github-actions]
